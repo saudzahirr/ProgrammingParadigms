@@ -1,3 +1,9 @@
+/*
+ * Author  : Saud Zahir
+ * Date    : August 06, 2024
+ * Contact : m.saud.zahir@gmail.com
+*/
+
 #include <stdio.h>
 #include "stack.h"
 

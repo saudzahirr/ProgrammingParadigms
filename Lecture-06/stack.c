@@ -31,6 +31,8 @@ void stackPush(stack *s, int value) {
 }
 
 int stackPop(stack *s) {
+    assert(s->logicallen > 0);
+
     s->logicallen--;
     return s->elements[s->logicallen];
 }
